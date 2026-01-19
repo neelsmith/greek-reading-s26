@@ -1,0 +1,35 @@
+---
+title: "Strabo 1.1"
+---
+
+
+## Reading selection 1: Strabo 1.1
+
+*Strabo begins with a review of his predecessors in the study of geography.*
+
+:::: {.columns}
+
+::: {.column width="80%"}
+**τῆς τοῦ φιλοσόφου πραγματείας** εἶναι νομίζομεν, εἴπερ ἄλλην τινά, καὶ τὴν γεωγραφικήν, ἣν νῦν προῃρήμεθα ἐπισκοπεῖν.
+:::
+
+::: {.column width="20%" .sidenote}
+
+**τῆς τοῦ φιλοσόφου πραγματείας** : *πραγματεία* routinely describes the activity of the scholar; for Strabo, that person is a *φιλόσοφος*.
+
+:::
+::::
+
+
+
+1.2.15
+
+:::: {.columns}
+
+::: {.column width="80%"}
+(The subject is Polybius) οὐκ ἐπαινεῖ δὲ οὐδὲ τὴν τοιαύτην τοῦ ̓Ερατοσθένους ἀπόφασιν,  διότι φησὶ τότ' ἂν εὑρεῖν τινα ποῦ ̓Οδυσσεὺς πεπλάνηται, ὅταν εὕρῃ τὸν σκυτέα τὸν συρράψαντα τὸν τῶν ἀνέμων ἀσκόν.
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+::::
