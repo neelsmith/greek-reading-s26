@@ -1,6 +1,8 @@
 project:
   type: book
 
+pdf-engine: xelatex
+
 book:
   title: "Greek Reading: Society in Nature"
   author: "Neel Smith"
@@ -19,3 +21,6 @@ format:
     css: styles.css
   pdf:
     documentclass: scrreprt
+    pdf:
+    monofont: "DejaVu Sans Mono"
+    mainfont: "Times New Roman"
