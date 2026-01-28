@@ -25,7 +25,9 @@ Eratosthenes clearly believed that the work of his own generation inaugurated a 
 
 Strabo energetically presents the counter argument. (In fact, most of book 2 is given over to a critique of Eratosthenes' views.) The result is unique in ancient literature: an extended discussion of how to read poetic texts as scholarly works, presented in prose that assiduously adheres to the vocabulary and syntax of contemporary technical writing.
 
+## Reading
 
+The Scaife Library has translations and a Greek text of Strabo [here](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001/).
 
 
 
