@@ -20,9 +20,7 @@ title: "Strabo 1.1"
 
 ::: {.column width="40%" .sidenote}
 
-**τῆς τοῦ φιλοσόφου πραγματείας** : *πραγματεία* routinely describes the activity of the scholar; for Strabo, that person is a *φιλόσοφος*.
-
-**προῃρήμεθα**: from προαιρέω (imperfect tense).
+**τῆς τοῦ φιλοσόφου πραγματείας** : *πραγματεία* routinely describes the activity of the scholar; for Strabo, that person is a *φιλόσοφος*. **προῃρήμεθα**: from προαιρέω (imperfect tense).
 
 :::
 ::::
@@ -38,10 +36,7 @@ title: "Strabo 1.1"
 
 ::: {.column width="40%" .sidenote}
 
-**δῆλον**: δῆλον (ἐστί understood). The subject is the entire clause introduced by ὅτι.
-… 
-
-**Ὄμηρός… Ἀναξίμανδρος… Εκαταῖος… Δημόκριτος… Εὔδοξος… Δικαίαρχος…  ̓́Εφορος… .̓Ερατοσθένης… Πολύβιος…  Ποσειδώνιος**: a chronologically ordered list of all the major geographers before Strabo -- all of them φιλόσοφοι. Strabo will review each in turn in books 1 and 2.
+**δῆλον**: δῆλον (ἐστί understood). The subject is the entire clause introduced by ὅτι. **Ὄμηρός… Ἀναξίμανδρος… Εκαταῖος… Δημόκριτος… Εὔδοξος… Δικαίαρχος…  ̓́Εφορος… .̓Ερατοσθένης… Πολύβιος…  Ποσειδώνιος**: a chronologically ordered list of all the major geographers before Strabo -- all of them φιλόσοφοι. Strabo will review each in turn in books 1 and 2.
 :::
 ::::
  
@@ -53,10 +48,7 @@ title: "Strabo 1.1"
 :::
 
 ::: {.column width="40%" .sidenote}
-**δυνατόν**: δυνατόν (ἐστί understood)
-
-
-**οὐκ ἄλλου τινός ἐστιν ἢ**: "is (a characteristic) of no other person than..."
+**δυνατόν**: δυνατόν (ἐστί understood) **οὐκ ἄλλου τινός ἐστιν ἢ**: "is (a characteristic) of no other person than…"
 :::
 ::::
 
@@ -71,9 +63,7 @@ title: "Strabo 1.1"
 
 
 ::: {.column width="40%" .sidenote}
-**ἡ ὠφέλεια… τὸν αὐτὸν ὑπογράφει ἄνδρα** The main subject-verb-object construction expands on the preceding idea: not only is *πολυμάθεια* characteristic of the philosopher; its usefulness for practical as well as scientific ends "outlines the same man."
-
-**ἄνδρα** Strabo sees philosophy as a gendered pursuit.
+**ἡ ὠφέλεια… τὸν αὐτὸν ὑπογράφει ἄνδρα** The main subject-verb-object construction expands on the preceding idea: not only is *πολυμάθεια* characteristic of the philosopher; its usefulness for practical as well as scientific ends "outlines" or "sketches" the same man.  **ἄνδρα** Strabo sees philosophy as a gendered pursuit.
 
 :::
 
@@ -84,16 +74,62 @@ title: "Strabo 1.1"
 :::: {.columns}
 
 ::: {.column width="60%"} 
-αναλαβόντες δὲ καθ' ἕκαστον ἐπισκοπῶμεν τῶν εἰρημένων ἔτι μᾶλλον. καὶ πρῶτον ὅτι **ὀρθῶς** **ὑπειλήφαμεν** καὶ ἡμεῖς καὶ οἱ πρὸ ἡμῶν, ὧν ἐστι καὶ ̔́Ιππαρχος, ἀρχηγέτην εἶναι τῆς γεωγραφικῆς ἐμπειρίας ̔́Ομηρον, ὃς οὐ μόνον ἐν τῇ κατὰ τὴν ποίησιν ἀρετῇ πάντας ὑπερβέβληται τοὺς πάλαι καὶ τοὺς ὕστερον,  ἀλλὰ σχεδόν τι καὶ τῇ κατὰ τὸν βίον ἐμπειρίᾳ τὸν πολιτικόν, ἀφ' ἧς οὐ μόνον περὶ τὰς πράξεις ἐσπούδασεν ἐκεῖνος, ὅπως ὅτι πλείστας γνοίη καὶ παραδώσει τοῖς ὕστερον ἐσομένοις, ἀλλὰ καὶ τὰ περὶ τοὺς τόπους τούς τε καθ' ἕκαστα καὶ τοὺς κατὰ σύμπασαν τὴν οἰκουμένην γῆν τε καὶ θάλατταν: οὐ γὰρ ἂν μέχρι τῶν ἐσχάτων αὐτῆς περάτων ἀφίκετο τῇ μνήμῃ κύκλῳ περιιών.
+αναλαβόντες δὲ **καθ' ἕκαστον ἐπισκοπῶμεν** τῶν εἰρημένων ἔτι μᾶλλον. 
+:::
+
+
+
+::: {.column width="40%" .sidenote}
+
+**καθ' ἕκαστον** "Item by item", "in more detail". **ἐπισκοπῶμεν**  from ἐπισκοπέω; the indicative would be ἐπισκοποῦμεν. What mood is this?
+
+
+:::
+
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="60%"} 
+καὶ πρῶτον ὅτι **ὀρθῶς** **ὑπειλήφαμεν** καὶ ἡμεῖς καὶ οἱ πρὸ ἡμῶν, ὧν ἐστι καὶ ̔́Ιππαρχος, ἀρχηγέτην εἶναι **τῆς γεωγραφικῆς ἐμπειρίας**  ̔́Ομηρον, **ὃς οὐ μόνον** ἐν τῇ κατὰ τὴν ποίησιν ἀρετῇ πάντας **ὑπερβέβληται** τοὺς πάλαι καὶ τοὺς ὕστερον,  ἀλλὰ σχεδόν τι καὶ **τῇ κατὰ τὸν βίον ἐμπειρίᾳ** τὸν πολιτικόν,
 :::
 
 
 ::: {.column width="40%" .sidenote}
-**ὀρθῶς** **ὑπειλήφαμεν** ὀρθῶς is scholarly Greek: it refers to a correct conclusion. (The noun κατόρθωσις is a correction of an error.) ὑπολαμβάνω (perfect active) is a normal verb to mean "taking a position" in a debate. Here it introduces an indiect statement.
+**ὀρθῶς** **ὑπειλήφαμεν** ὀρθῶς is scholarly Greek: it refers to a correct conclusion. (The noun κατόρθωσις is a correction of an error.) ὑπολαμβάνω (perfect active) is a normal verb to mean "taking a position" in a debate. Here it introduces an indiect statement. **τῆς γεωγραφικῆς ἐμπειρίας** The reader has conceded that geography has both practical benefits as well as purely scientific ones, so Strabo can turn to the founder of *geographic experience*, Homer.  **ὃς οὐ μόνον… ὑπερβέβληται** Scientific Greek prose can be as challenging as English; this is a massive relative clause. Its verb is ὑπερβέβληται from ὑπερβάλλω. Strabo uses the perfect because references to texts always emphasize their presentness, with either the present tense ("Homer says...") or as here "Homer has surpassed..." (and the Greek perfect makes clear that we feel the present effect of that excellence). **τῇ κατὰ τὸν βίον ἐμπειρίᾳ** τῇ ἐμπειρίᾳ is parallel to τῇ ἀρετῇ: no one would contest that Homer surpasses all others in the ἀρετή of his poetry; Strabo add that he is equally supreme in his practical knowledge (ἐμπειρία). Note that parallel attributive expressions with κατά (excellence in poetry paralled by experience in life).  τὸν πολιτικόν is in attributive position with τὸν βίον. The word order is not the most common. Is Strabo (playfully?) being just a little poetic in his expression?
 
 
 :::
 ::::
+
+
+:::: {.columns}
+::: {.column width="60%"} 
+ **ἀφ' ἧς** οὐ μόνον περὶ τὰς πράξεις ἐσπούδασεν ἐκεῖνος, **ὅπως** ὅτι πλείστας **γνοίη καὶ παραδώσει** τοῖς ὕστερον ἐσομένοις, ἀλλὰ καὶ τὰ περὶ τοὺς τόπους τούς τε καθ' ἕκαστα καὶ τοὺς κατὰ σύμπασαν **τὴν οἰκουμένην γῆν τε καὶ θάλατταν**: 
+:::
+
+
+::: {.column width="40%" .sidenote}
+ **ἀφ' ἧς** The subordination deepens with another relative clause. Antecedent of ἧς is ἐμπειρίᾳ. **ὅπως… γνοίη καὶ παραδώσει** Textbooks may tell you that ὅπως + optative is normal for purpose expressions after a past-time verb (secondary sequence), and ὅπως + future indicative for primary sequence verbs, but Strabo uses both here. Homer paid serious attention to (human) actions in order to know and understand them (optative γνοίη, a clear echo of the opening lines of the *Odyssey*); he also strove to transmit these deeds to those still to come. The indicative suggests a more vivid, present image or stronger effort. Homer is an epic poet and historian. (Consult Prof. Joseph on the interaction of these genres in Latin poetry and historiography.)  **τὴν οἰκουμένην γῆν τε καὶ θάλατταν** The proper concern of geography is with the part of the globe that humans inhabit.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"} 
+οὐ γὰρ **ἂν** μέχρι τῶν ἐσχάτων αὐτῆς περάτων **ἀφίκετο** τῇ μνήμῃ κύκλῳ περιιών.
+:::
+
+::: {.column width="40%" .sidenote}
+**ἂν… ἀφίκετο** Aorist indicative from ἀφικνέομαι; apodosis of a past contrafactual condition.
+:::
+
+::::
+
 
 1.1.3 καὶ πρῶτον μὲν τῷ ὠκεανῷ περίκλυστον, ὥσπερ ἔστιν, ἀπέφαινεν αὐτήν: ἔπειτα δὲ τῶν χωρίων τὰ μὲν ὠνόμαζε τὰ δὲ ὑπῃνίττετο τεκμηρίοις τισί, Λιβύην μὲν καὶ Αἰθιοπίαν καὶ Σιδονίους καὶ ̓Ερεμβούς, οὓς εἰκὸς λέγειν Τρωγλοδύτας ̓́Αραβας, ῥητῶς λέγων, τοὺς δὲ πρὸς ταῖς ἀνατολαῖς καὶ δύσεσιν αἰνιττόμενος ἐκ τοῦ τῷ ὠκεανῷ κλύζεσθαι: ἐντεῦθεν γὰρ ἀνίσχοντα ποιεῖ τὸν ἥλιον καὶ δυόμενον εἰς τοῦτον, ὡς δ' αὕτως καὶ τὰ ἄστρα καὶ τοὺς ἀστέρας λελουμένους ἐξ ὠκεανοῦ λέγει.
 
