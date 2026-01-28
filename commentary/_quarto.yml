@@ -6,21 +6,25 @@ pdf-engine: xelatex
 book:
   title: "Greek Reading: Society in Nature"
   author: "Neel Smith"
-  date: "1/19/2026"
+  date: "1/28/2026"
 
   chapters:
     - index.qmd
     - strabo-intro.qmd
     - strabo-selection1.qmd
 
-
-
 format:
   html:
     theme: cosmo
     css: styles.css
-  pdf:
+  pdf: 
     documentclass: scrreprt
-    pdf:
-    monofont: "DejaVu Sans Mono"
+    geometry:
+      - margin=1in    
+    monofont: "Menlo"
     mainfont: "Times New Roman"
+    include-in-header:
+      text: |
+        \usepackage{paracol}
+    filters:
+      - columns-to-latex.lua
