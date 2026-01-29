@@ -12,6 +12,8 @@ book:
     - index.qmd
     - strabo-intro.qmd
     - strabo-selection1.qmd
+    - dp-intro.qmd
+    - dp-selection.qmd
 
 format:
   html:
