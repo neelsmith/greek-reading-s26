@@ -1,4 +1,4 @@
-# Dionysius "the Perigete"
+# Introduction to Dionysius "the Perigete"
 
 
 
@@ -6,7 +6,7 @@
 
 ## Reading
 
-The ToposText web site has an English translation  (Yumna Khan, 2002) and Greek text of Dionysius[here](https://topostext.org/work/201)
+The ToposText web site has an English translation  (Yumna Khan, 2002) and Greek text of Dionysius [here](https://topostext.org/work/201).
 
 
-The Scaife Library has a Greek text of Dionysius [here](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0084.tlg001.1st1K-grc1:)
+The Scaife Library has a Greek text of Dionysius [here](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0084.tlg001.1st1K-grc1:).
