@@ -19,13 +19,16 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`2` καὶ ποταμοὺς πόλιάς τε καὶ ἀνδρῶν ἄκριτα φῦλα,
+`2` καὶ ποταμοὺς **πόλιάς** τε καὶ **ἀνδρῶν** ἄκριτα φῦλα,
 :::
 
 ::: {.column width="10%"}
+
 :::
 
 ::: {.column width="25%" .sidenote}
+**πόλιάς** epic accusative plural of πόλις.
+**ἀνδρῶν** the genitive could go with both πόλιάς and φῦλα. The phrase echoes *Odyssey* 1.3,πολλῶν δʼ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω, "[Odysseus] saw the cities and learned the mind of many people:" like Strabo, Dionysius sees the work of geography reaching back to Homer. The multiple direct objects of ἀείδειν (γαῖάν…πόντον…ποταμοὺς…πόλιάς…ἀνδρῶν φῦλα) not only define the scope of geography but define a traditional sequence of topics: primary (πόντον) and secondary (ποταμοὺς) physical features, followed by human settlements.
 :::
 
 ::::
@@ -33,13 +36,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`3` μνήσομαι Ὠκεανοῖο βαθυρρόου· ἐν γὰρ ἐκείνῳ
+`3` **μνήσομαι** Ὠκεανοῖο βαθυρρόου· ἐν γὰρ ἐκείνῳ
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**μνήσομαι** constructed with a genitive object.
 :::
 
 ::::
@@ -47,13 +51,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`4` πᾶσα χθὼν, ἅτε νῆσος ἀπείριτος, ἐστεφάνωται,
+`4` πᾶσα χθὼν, ἅτε νῆσος **ἀπείριτος**, **ἐστεφάνωται**,
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**ἀπείριτος** "boundless" is a compound (the first letter is the "alpha privative" that negates the sense of the root adjective), and therefore has only only two sets of forms for common gender (masculine or feminine) and neuter. **ἐστεφάνωται** irregular perfect stem from στεφανόω.
 :::
 
 ::::
@@ -61,13 +66,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`5` οὐ μὲν πᾶσα διαπρὸ περίδρομος, ἀλλὰ διαμφὶς
+`5` οὐ μὲν πᾶσα διαπρὸ **περίδρομος**, ἀλλὰ διαμφὶς
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**περίδρομος** Another compound adjective.
 :::
 
 ::::
@@ -75,13 +81,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`6` ὀξυτέρη βεβαυῖα πρὸς ἠελίοιο κελεύθους,
+`6` ὀξυτέρη **βεβαυῖα** πρὸς **ἠελίοιο** κελεύθους,
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**βεβαυῖα** epic perfect participle from βαίνω. **ἠελίοιο** epic stem for ἥλιος; epic -οιο is a regular genitive singular ending for second declension masculines.
 :::
 
 ::::
@@ -89,13 +96,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`7` σφενδόνῃ εἰοικυῖα· μίαν δέ ἑ καίπερ ἐοῦσαν
+`7` σφενδόνῃ **εἰοικυῖα**· μίαν δέ ἑ καίπερ ἐοῦσαν
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**εἰοικυῖα** here in the literal sense "to resemble, seem like, the verb ἔοικα is only used in the perfect tense.
 :::
 
 ::::
@@ -103,13 +111,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`8` ἄνθρωποι τρισσῇσιν ἐπ’ ἠπείροισι δάσαντο·
+`8` ἄνθρωποι **τρισσῇσιν** ἐπ’ **ἠπείροισι** δάσαντο·
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**τρισσῇσιν, **ἠπείροισι**** epic endings for dative plural. ἤπειρος is the technical term for "continent" in geographic writing. The physical division of the earth in three continents is always an essential initial question in geographic texts.
 :::
 
 ::::
@@ -131,13 +140,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`10` Ἀλλʼ ἤτοι Λιβύη μὲν ἀπʼ Εὐρώπης ἔχει οὖρον
+`10` Ἀλλʼ ἤτοι Λιβύη μὲν ἀπʼ Εὐρώπης ἔχει **οὖρον**
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**οὖρον** epic and Ionic form from ὅρος. Establishing the boundaries between continents is a required topic to address in identifying them.
 :::
 
 ::::
@@ -145,13 +155,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`11` λοξὸν ἐπὶ γραμμῆσι, Γάδειρά τε καὶ στόμα Νείλου,
+`11` λοξὸν ἐπὶ **γραμμῆσι**, Γάδειρά τε καὶ στόμα Νείλου,
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**γραμμῆσι** Dionysius envisions their spatial relations as if drawn on a map.
 :::
 
 ::::
@@ -159,7 +170,7 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`12` ἔνθα βορειότατος πέλεται μυχὸς Λλγύλπτοιο
+`12` ἔνθα βορειότατος πέλεται μυχὸς Ἄιγύπτοιο
 :::
 
 ::: {.column width="10%"}
