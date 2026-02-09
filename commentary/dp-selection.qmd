@@ -1,10 +1,13 @@
-# Selections from Dionysius of Alexandria
+# Annotated selections from Dionysius
 
+## Lines 1-26
+
+> *The opening of the poem announces that it is simultaneously an epic inspiration, and a treatise on geography in poetic form.*
 
 :::: {.columns}
 
 ::: {.column width="60%"}
-`1` Ἀρχόμενος γαῖάν τε καὶ εὐρέα πόντον **ἀείδειν**
+`1` Ἀρχόμενος **γαῖάν** τε καὶ εὐρέα πόντον **ἀείδειν**
 :::
 
 ::: {.column width="10%"}
@@ -43,7 +46,7 @@
 :::
 
 ::: {.column width="25%" .sidenote}
-**μνήσομαι** constructed with a genitive object.
+**μνήσομαι** future of μιμνήσκω, constructed with a genitive object.
 :::
 
 ::::
@@ -96,14 +99,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`7` σφενδόνῃ **εἰοικυῖα**· μίαν δέ ἑ καίπερ ἐοῦσαν
+`7` σφενδόνῃ **εἰοικυῖα**· μίαν δέ **ἑ** καίπερ ἐοῦσαν
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
-**εἰοικυῖα** here in the literal sense "to resemble, seem like, the verb ἔοικα is only used in the perfect tense.
+**εἰοικυῖα** here in the literal sense "to resemble, seem like, the verb ἔοικα is only used in the perfect tense. **ἑ** epic form of the third person pronoun, common gender, accusative singular.
 :::
 
 ::::
@@ -162,7 +165,7 @@
 :::
 
 ::: {.column width="25%" .sidenote}
-**γραμμῆσι** Dionysius envisions their spatial relations as if drawn on a map.
+**γραμμῆσι** Dionysius envisions their spatial relations as if drawn on a map. Enjoy [Bunbury's nineteenth-century imagining of Dionysius' world](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg) if it helps you visualize these relations.
 :::
 
 ::::
@@ -170,13 +173,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`12` ἔνθα βορειότατος πέλεται μυχὸς Ἄιγύπτοιο
+`12` ἔνθα **βορειότατος** πέλεται μυχὸς Ἄιγύπτοιο
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**βορειότατος** Here and following, the superlative forms bring us to the very limits of the world, its ὅροι.
 :::
 
 ::::
@@ -198,13 +202,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`14` Εὐρώπην δʼ Ἀσίης Τάναϊς διὰ μέσσον ὁρίζει,
+`14` Εὐρώπην δʼ Ἀσίης Τάναϊς διὰ μέσσον **ὁρίζει**,
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**ὁρίζει** Technical language for a geographic boundary.
 :::
 
 ::::
@@ -268,13 +273,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`19` Ἄλλοι δʼ ἠπείροισι διὰ χθόνα νοσφίζουσιν.
+`19` **Ἄλλοι** δʼ ἠπείροισι διὰ χθόνα **νοσφίζουσιν**.
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**Ἄλλοι…νοσφίζουσιν** νοσφίζουσιν is a poetic metaphor, but the topic remains how to distinguish the continents. Ἄλλοι shows us that this was a disputed subject, with geographers holding multiple views.
 :::
 
 ::::
@@ -296,7 +302,7 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`21` Κασπίης τε μεσηγὺ καὶ Εὐξείνοιο Οκλάσσης·
+`21` Κασπίης τε μεσηγὺ καὶ Εὐξείνοιο θαλάσσης·
 :::
 
 ::: {.column width="10%"}
@@ -310,13 +316,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`22` κεῖνον δ Εὐρώπης Ἀσίης θ ὅρον ηὐδάξαντο·
+`22` **κεῖνον** δ Εὐρώπης Ἀσίης θ ὅρον **ηὐδάξαντο**·
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**κεῖνον** epic form, from ἐκεῖνος. **ηὐδάξαντο**  αὐδάζομαι is normally used in the middle voice, "to name (something)".
 :::
 
 ::::
@@ -363,425 +370,26 @@
 
 ::::
 
+
+
 :::: {.columns}
 
 ::: {.column width="60%"}
-`26` Τοῖα μὲν ἀμφʼ οὔροισι βροτοὶ διεφημίξαντο·
+`26` **Τοῖα** μὲν ἀμφʼ οὔροισι βροτοὶ **διεφημίξαντο**·
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**Τοῖα…διεφημίξαντο** "These are the kinds of things people say about borders." Dionysius rounds off the opening discussion of the continents, in order to move on to the next topic (the Oceran, Ὠκεανός). βροτοὶ is a purely poetic word for "mortals."
 :::
+
 
 ::::
 
-:::: {.columns}
 
-::: {.column width="60%"}
-`27` πάντη δʼ ἀκαμάτου φέρεται ῥόος Ὠκεανοῖο,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`28` εἷς μὲν ἐὼν, πολλῇσι δʼ ἐπωνυμίῃσιν ἀρηρώς·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`29` ἤτοι ὁ μὲν Λοκροῖο παρʼ ἐσχατιὴν ζεφύροιο
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`30` Ἄτλας ἑσπέριος κικλήσκεται, αὐτὰρ ὕπερθεν
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`31` πρὸς βορέην, ἵνα παῖδες ἀρειμανέων Ἀριμασπῶν,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`32` πόντον μιν καλέουσι πεπηγότα τε Κρόνιόν τε·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`33` ἄλλοι δʼ αὖ καὶ νεκρὸν ἐφήμισαν εἵνεκ’ ἀφαυροῦ
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`34` ἠελίου· βράδιον γὰρ ὑπεὶρ ἔλα τήνδε φαείνει,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`35` αἰεὶ δὲ σκιερῇσι παχύνεται ἐν νεφέλῃσιν·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`36` αὐτὰρ ὅθι πρώτιστα φαείνεται ἀνθρώποισιν,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`37` ἠῷον καλέουσι καὶ Ἰνδικὸν οἶδμα θαλάσσης·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`38` ἄγχι δʼ Ἐρυθραῖόν τε καὶ Αἰθόπιον καλέουσιν
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`39` πρὸς νότον· ἔνθα δὲ πολλὸς ἀοικήτου χθονὸς αὐλὼν
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`40` ἐκτέταται, μαλεροῖσι κεκαυμένος ἠελίοισιν.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`41` Οὕτως Ὠκεανὸς περιδέδρομε γαῖαν ἅπασαν,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`42` τοῖος ἐὼν καὶ τοῖα μετʼ ἀνδράσιν οὐνόμαθʼ ἕλκων.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`43` Κόλπους δἔνθακαὶ ἔνθʼ ἀπερεύγεται,εῖς ἅλα βάλλων
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`44` ἔνδοθι· τυτθοὺς μὲν πλέονας, πίσυρας δὲ μεγίστους·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`45` ἤτοι μὲν πρώτιστον, ὅς ἑσπερίην ἅλα τίκτει,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`46` συρόμενος Λιβύηθεν ἔσω Παμφυλίδος αἴης·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`47` δεύτερον αὖτ· ὀλίγον μὲν, ἀτὰρ προφερέστατον ἄλλων,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`48` ἀποκιδνάμενος Κρονίης ἁλὸς ἐκ βορέαο
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`49` ὅς τ Κασπίη αἰπὺ ῥέεθρον ἐπιπροΐησι θαλάσσῃ,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`50` ἥντε καὶ Ὑρκανίην ἕτεροι διεφημίξαντο.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`51` Τῶν δʼ ἄλλων, οἵτ’ εἰσὶν ἀπαὶ νοτίης ἁλὸς ἄμφω,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`52` εἶςμὲν ἀνώτερόςἐστι,τὸ Περσικὸν οἶδμαπροχεύων,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`53` ἀντία Κασπίης τετραμμένος ἀμφιτρίτης·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`54` ἄλλος δʼ Ἀράβιος κυμαίνεται ἔνδοθι κόλπος,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`55` Εὐξείνου πόντου νοτιώτερον ὁλκὸν ἑλίσσων.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
+## Lines 56-68
 
 :::: {.columns}
 
@@ -810,6 +418,8 @@
 :::
 
 ::::
+
+
 
 :::: {.columns}
 
@@ -1570,6 +1180,9 @@ Cf στίχος as term for a line of hexameter.
 
 ::::
 
+
+## Lines 112-134
+
 :::: {.columns}
 
 ::: {.column width="60%"}
@@ -1891,6 +1504,10 @@ Cf στίχος as term for a line of hexameter.
 :::
 
 ::::
+
+
+
+
 
 :::: {.columns}
 
@@ -15216,6 +14833,1116 @@ Cf στίχος as term for a line of hexameter.
 :::
 
 ::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1087` γείτων Ὠκεανοῦ μεγακήτεος, οἷσι πρὸς αὐγὰς
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1088` Ἰνδὸν πὰρ ποταμὸν νότιοι Σκύθαι ἐνναίουσιν,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1089` ὅς ῥά τʼ Ἐρυθραίης κατεναντίον εἶσι θαλάσσης,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1090` λαβρότατον ῥόον ὠκὺν ἐπὶ νότον ὀρθὸν ἐλαύνων,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1091` ἀρξάμενος τὰ πρῶτʼ ἀπὸ Καυκάσου ἠνεμόεντος.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1092` Δισσὰ δέ οἱ στόματ ἐστίμέσην δ ἐπιδέδρομε νῆσον,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1093` νῆσον, τὴν καλέουσιν ἐπυχθόνιοι Παταληνήν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1094` Κεῖνός τοι πολέων ἀποτέμνεται ἔθνεα φωτῶν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1095` ἤτοι μὲν δύνοντος ἐπὶ κλίσιν ἠελίοιο
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1096` Ὠρείτας τʼ Ἄριβάς τε λινοχλαίνους τʼ Ἀραχώτας,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1097` Σατραΐδας θʼ,δσσους τε παρὰ πτυχὶ Παρνησοῖο,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1098` ξυνῆ ὁμῶς μάλα πάντας ἐπωνυμίην Ἀριηνούς,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1099` οὐ χθόνα ναιετάοντας ἐπήρατον, ἀλλ ὑπὸ λεπτῇ
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1100` ψάμμῳ πεπληθυῖαν ἰδὲ ῥώπεσσι δασεῖαν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1102` ἀλλʼ ἔμπης ζωοῖσιν ἐπαρκέες εἰσὶ κέλευθοι
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1103` ἄλλον γάρ σφισιν ὄλβον ἀκήρατον αἶα κομίζει·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1104` πάντη γὰρ λίθος ἐστὶν ἐρυθροῦ κουραλίοιο,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1105` πάντη δʼ αὖ πέτρῃσιν ὑπὸ φλέβες ὠδίνουσι
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1106` χρυσείης κυανῆς τε καλὴν πλάκα σαπφείροιο,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1107` τῆς ἀποτεμνόμενοι βιοτήσιον ὦνον ἔχουσιν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1108` Πρὸς δʼ αὐγὰς Ἰνδῶν ἐρατὴ παραπέπταται αἶα,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1109` πασάων πυμάτη, παρὰ χείλεσιν Ὠκεανοῖο,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1110` ἥν ῥάτ ἀνερχόμενος μακάρων ἐπὶ ἔργα καὶ ἀνδρῶν
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1111` ἠέλιος πρώτῃσιν ἐπιφλέγει ἀκτίνεσσιν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1112` Τῷ γαίης ναέται μὲν ὑπὸ χρόα, κυανέουσι,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1113` θεσπέσιον λιπόωντες, ἐειδομένας δʼ ὑακίνθῳ
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1114` πιοτάτας φορέουσιν ἐπὶ κράτεσφιν ἐθείρας.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1115` Τῶν δʼ οἱ μὲν χρυσοῖο μεταλλεύουσι γενέθλην,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1116` ψάμμον ἐϋγνάμπτῃσι λαχαίνοντες μακέλῃσιν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1117` οἱ δʼ ἱστοὺς ὑφόωσι λινεργέας· οἱ δʼ ἐλεφάντων
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1118` ἀργυφέους πρισθέντας ἀποξύουσιν ὀδόντας·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1119` ἄλλοι δʼ ἰχνεύουσιν ἐπὶ προβολῇσιν ἀναύρων
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1120` ἤ που βηρύλλου γλαυκὴν λίθον ἢ ἀδάμαντα
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1121` μαρμαίροντʼ ἢ χλωρὰ διαυγάζουσαν ἴασπιν
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1122` ἢ καὶ γλαυκιόωντα λίθον καθαροῖο τοπάζου
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1123` καὶ γλυκερὴν ἀμέθυστον ὑπηρέμα πορφυρέουσαν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1124` παντοῖον γὰρ γαῖα μετʼ ἀνδράσιν ὄλβον ἀέξει,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1125` ἀενάοις ποταμοῖσι κατάρρυτος ἔνθα καὶ ἔνθα.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1126` Ναὶ μὴν καὶ λειμῶνες ἀεὶ κομόωσι πετήλοις·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1127` ἄλλοθι μὲν γὰρ κέγχρος ἀέξεται, ἄλλοθι δʼ αὖτε
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1128` ὗλαι τηλεθόωσιν Ἐρυθραίου καλάμοιο.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1129` Φράζεο δ , ὥς τοι σχῆμα καὶ ὡς ποταμοὺς ἐνέποιμι
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1130` οὔρεά τʼ ἠνεμόεντα καὶ αὐτῆς ἔθνεα γαίης.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1131` Ἤτοι μὲν πισύρεσσιν ἐπὶ πλευρῇσιν ἄρηρε
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1132` πάσῃσιν λοξῇσιν, ἀλιγκίη εἴδεϊ ῥόμβου·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1133` ἀλλά τοι ἑσπερίοις μὲν ὁμούριος ὕδασιν Ἰνδὸς
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1134` γαῖαν ἀποτμήγει, νότιον δʼ ἁλὸς οἴδματʼ Ἐρυθρῆς,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1135` Γάγγης δʼ εἰς αὐγὰς,ὁ δὲ Καύκασος ἐς πόλον ἄρκτων.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1136` Καὶ τὴν μὲν πολλοί τε καὶ ὄλβιοι ἄνδρες ἔχουσιν,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1137` οὐχ ἅμα ναιετάοντες ὁμώνυμοι, ἀλλὰ διαμφὶς
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1138` κεκριμένοι, ποταμοῦ μὲν ἀπειρεσίου πέλας Ἰνδοῦ
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1139` Δαρδανέες, τόθι λοξὸν ἀπὸ σκοπέλων Ἀκεσίνην
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1140` συρόμενον δέχεται πλωτὸς νήεσσιν Ὑδάσπης.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1141` Τοῖς δ ἔπι καὶ Κώφης τρίτος ἕσπεται ἀργυροδίνης·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1142` τῶν δὲ μέσοι ναίουσι Σάβαι καὶ Ταξίλοι ἄνδρες,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1143` Σκόδροι δʼ ἑξείης· ἐπὶ δʼ ἕσπεται ἄγρια φῦλα
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1145` Πευκαλέων· μετὰ τοὺς δὲ Διωνύσου θεράποντες
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1146` Γαργαρίδαι ναίουσιν, ὅθι χρυσοῖο γενέθλην
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1147` δαιδαλέην Ὕπανίς τε φέρει θεῖός τε Μάγαρσος,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1148` λαβρότατοι ποταμῶν· ἀπὸ δʼ οὔρεος Ἠμωδοῖο
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1149` ὀρνύμενοι προρέουσιν ἐπὶ Γαγγήτιδα χώρην,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1150` πρὸς νότον ἑλκόμενοι παρὰ τέρματα Κωλίδος αἴης.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1151` Ἡ δʼ ἤτοι προνένευκεν ἐπ Ὠκεανὸν βαθυδίνην,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1152` ἠλίβατος, ταχινοῖσι δυσέμβατος οἰωνοῖσιν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1153` τοὔνεκά μιν καὶ φῶτες ἐπικλείουσιν Ἄορνιν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1154` Ἔστι δέ τις θηητὸς ἐϋρρείτην παρὰ Γάγγην
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1155` χῶρος τιμήεις τε καὶ ἱερὸς, ὃν ποτε Βάκχος
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1156` θυμαίνων ἐπάτησεν, ὅτ ἠλλάσσοντο μὲν ἁβραὶ
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1157` Αηνάων νεβρῖδες ἐς ἀσπίδας, ἐς δὲ σίδηρον
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1159` θύρσοι μαιμώοντο καὶ ἐς σπείρημα δρακόντων
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1160` ζωστῆρές θʼ ἕλικές τε πολυγνάμπτης ἑλίνοιο,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1161` ἦμος ὅτ ἀφραδίῃσι θεοῦ ἀτίτησαν ἑορτήν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1162` Τοὔνεκα Νυσαίην μὲν ἐφημίξαντο κέλευθον,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+
+## Lines 1184-1188
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1184` Ὑμεῖς δʼ ἤπειροί τε καὶ εἰν ἁλὶ χαίρετε, νῆσοι,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1185` ὕδατά τʼ Ὠκεανοῖο καὶ ἱερὰ χεύματα πόντου
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1186` καὶ ποταμοὶ κρῆναί τε καὶ οὔρεα βησσήεντα.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1187` Ἤδη γὰρ πάσης μὲν ἐπέδραμον οἶδμα θαλάσσης,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1188` ἤδη δʼ ἠπείρων σκολιὸν πόρον· ἀλλά μοι ὕμνων
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1189` αὐτῶν ἐκ μακάρων ἀντάξιος εἴη ἀμοιβή.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
 :::
 
 ::::

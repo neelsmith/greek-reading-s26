@@ -8,20 +8,52 @@ But his content strictly follows the conventional order of a geographic treatise
 1. 
 
 
-
+full text: [here](../dp-all-text.html)
 
 Latin xlations:
 
 - Rufius Festus Avieniush
 - Priscian. 
+- Anonymous (12th Century): A 12th-century translation was identified in the Parisinus Suppl. gr. 388, marking a significant, early, full-poem translation in Norman Italy.
 
 Commentary by Eustathius
+
+
+ Leue (1884), who had discovered the acrostich referring to Hadrian (513–32), and a second naming Dionysius (112–34).
 
 ID'ed in acrostic disc'ed 1884
 
 Suda delta 1173
 
+
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
 Διονύσιος,  ̓Αλεξανδρεύς, ὁ Γλαύκου υἱός, γραμματικός: ὅστις ἀπὸ Νέρωνος συνη̂ν καὶ τοι̂ς μέχρι Τραϊανου̂ καὶ τω̂ν βιβλιοθηκω̂ν προὔστη καὶ ἐπὶ τω̂ν ἐπιστολω̂ν καὶ πρεσβειω̂ν ἐγένετο καὶ ἀποκριμάτων. ἠ̂ν δὲ καὶ διδάσκαλος Παρθενίου του̂ γραμματικου̂, μαθητὴς δὲ Χαιρήμονος του̂ φιλοσόφου, ὃν καὶ διεδέξατο ἐν  ̓Αλεξανδρείᾳ.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%" }
+
+Dinoysius. Of Alexandria; son of Glaucus. Grammarian. From Nero onwards he was a companion of the emperors until Trajan. He was director of the libraries, and was secretary with responsibility for correspondence, embassies and rescripts. He was the teacher of the grammarian Parthenius, and a pupil of the philosopher Chaeremon, whose successor he was in Alexandria.
+:::
+::::
+
+
+
+
+xlation by whitehead 
+
+
+
+Bunbury ![imagined map](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
+
+
+
 
 ## Reading
 

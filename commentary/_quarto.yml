@@ -14,6 +14,7 @@ book:
     - strabo-selection1.qmd
     - dp-intro.qmd
     - dp-selection.qmd
+    - dp-all-text.qmd
 
 format:
   html:

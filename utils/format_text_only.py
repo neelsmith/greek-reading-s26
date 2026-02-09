@@ -12,15 +12,10 @@ def format_text_line(text, linenum):
     """Format a text line into Quarto columns structure."""
     return f""":::: {{.columns}}
 
-::: {{.column width="60%"}}
+::: {{.column width="90%"}}
 `{linenum}` {text}
 :::
 
-::: {{.column width="10%"}}
-:::
-
-::: {{.column width="20%" .sidenote}}
-:::
 
 ::::
 """
@@ -30,7 +25,7 @@ def format_file(input_file, output_file):
     formatted_lines = []
     
     with open(input_file, 'r', encoding='utf-8', errors='surrogateescape') as f:
-        for linenum, line in enumerate(f, start=2174):
+        for linenum, line in enumerate(f, start=1):
             line = line.rstrip('\n\r')
             num = int(linenum / 2)
             # Skip empty lines and numeric lines
