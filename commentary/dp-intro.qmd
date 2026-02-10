@@ -1,0 +1,56 @@
+# Introduction to Dionysius "the Perigete"
+
+## The Περιήγησις τῆς οἰκουµένης: an introduction
+
+Our second text is a hexameter poem of fewer than 1200 lines that in our manuscripts commonly has the title  *Περιήγησις τῆς οἰκουµένης*,  "Guide to the inhabited world." Its vocabulary and forms draw heavily on epic predecessors, and the poet, who speaks to us in first person, characterizes his work as epic. (Note in selection 1 the verb ἀείδειν, the address to the Muses in selection 2; the closing wish that he will receive a fair reward for his divinely inspired song in selection 4.)
+
+The poem's content, on the other hand, strictly follows a sequence of topics that is conventional in geographic treatises, and even reports dissenting scholarly views on geographic topics. The Περιήγησις τῆς οἰκουµένης is a significant example of a distinctive feature of ancient scholarship: the composition of introductory textbooks in the form of didactic poetry. (The most famous example of this genre is Aratus' *Phaenomena*: we plan to look at the Greek text and a Latin translation of Aratus later in the semester.)
+
+
+In 1884 Gustav Leue discovered a pair of acrostichs hidden in the poem. The first situates the work in the time of the emperor Hadrian (reigned 117-138 CE); the second gives us the author's name and city of origin: Dionysius, from the major city of Hellenistic Greek learning, Alexandria in Egypt.[^leue]
+
+ [^leue]: Gustav Leue, « Zeit und Heimath des Periegeten Dionysios
+», *Philologus* 42 (1884) 175-178.
+
+
+This probably allows us to identify the author with an article in the marvelous tenth century encyclopedia known as the Suda. Entry delta 1173, with English translation by David Whitehead, reads:
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+Διονύσιος,  ̓Αλεξανδρεύς, ὁ Γλαύκου υἱός, γραμματικός: ὅστις ἀπὸ Νέρωνος συνη̂ν καὶ τοι̂ς μέχρι Τραϊανου̂ καὶ τω̂ν βιβλιοθηκω̂ν προὔστη καὶ ἐπὶ τω̂ν ἐπιστολω̂ν καὶ πρεσβειω̂ν ἐγένετο καὶ ἀποκριμάτων. ἠ̂ν δὲ καὶ διδάσκαλος Παρθενίου του̂ γραμματικου̂, μαθητὴς δὲ Χαιρήμονος του̂ φιλοσόφου, ὃν καὶ διεδέξατο ἐν  ̓Αλεξανδρείᾳ.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%" }
+
+Dinoysius. Of Alexandria; son of Glaucus. Grammarian. From Nero onwards he was a companion of the emperors until Trajan. He was director of the libraries, and was secretary with responsibility for correspondence, embassies and rescripts. He was the teacher of the grammarian Parthenius, and a pupil of the philosopher Chaeremon, whose successor he was in Alexandria.
+:::
+::::
+
+Numerous Greek manuscripts demonstrates the continued interest in the poem. In addition, there were numerous Latin translations over the centuries, including surviving translations by Rufius Festus Avienius (fourth century CE), Priscian (beginning of sixth century CE), an anonymous translation of the twelfth century CE, and various Renaissance translations. In the sixth century CE, Cassiodorus advised all the monks in his monastery known as the Vivarium to read the poem. In the twelfth century CE, the great Byzantine scholar Eustathius produced an extensive commentary on it.
+
+
+
+
+
+
+
+
+[![*Dionysius' map of the world as imagined by the nineteenth century scholar, Edward Bunbury*](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
+
+
+
+
+## Reading
+
+- [four annotated selections for our discussion](../dp-selection.html)
+- [full text of the poem](./dp-all-text.html)
+
+The ToposText web site has an English translation  (Yumna Khan, 2002) and Greek text of Dionysius [here](https://topostext.org/work/201).
+
+
+A Greek text of Dionysius is included in the Scaife Library [here](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0084.tlg001.1st1K-grc1:).

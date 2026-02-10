@@ -1,0 +1,1126 @@
+# Annotated selections from Dionysius
+
+## Lines 1-26
+
+> *The opening of the poem announces that it is simultaneously an epic inspiration, and a treatise on geography in poetic form.*
+>
+> *Follow the link on the thumbnail image to enjoy [Bunbury's nineteenth-century imagining of Dionysius' world](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg) if it helps you visualize these relations*.
+
+:::: {.columns}
+
+
+
+::: {.column width="35%"}
+:::
+
+
+::: {.column width="25%"}
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
+:::
+
+
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%"  .sidenote}
+"Map of the World According to Dionysius Periegetes" from Edward Bunbury, *A history of ancient geography among the Greeks and Romans, from the earliest ages till the fall of the Roman Empire* (1874).
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1` Ἀρχόμενος **γαῖάν** τε καὶ εὐρέα πόντον **ἀείδειν**
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**ἀείδειν** The verb identifies this as the song of an epic poet.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`2` καὶ ποταμοὺς **πόλιάς** τε καὶ **ἀνδρῶν** ἄκριτα φῦλα,
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="25%" .sidenote}
+**πόλιάς** epic accusative plural of πόλις.
+**ἀνδρῶν** the genitive could go with both πόλιάς and φῦλα. The phrase echoes *Odyssey* 1.3,πολλῶν δʼ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω, "[Odysseus] saw the cities and learned the mind of many people:" like Strabo, Dionysius sees the work of geography reaching back to Homer. The multiple direct objects of ἀείδειν (γαῖάν…πόντον…ποταμοὺς…πόλιάς…ἀνδρῶν φῦλα) not only define the scope of geography but define a traditional sequence of topics: primary (πόντον) and secondary (ποταμοὺς) physical features, followed by human settlements.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`3` **μνήσομαι** Ὠκεανοῖο βαθυρρόου· ἐν γὰρ ἐκείνῳ
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**μνήσομαι** future of μιμνήσκω, constructed with a genitive object.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`4` πᾶσα χθὼν, ἅτε νῆσος **ἀπείριτος**, **ἐστεφάνωται**,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**ἀπείριτος** "boundless" is a compound (the first letter is the "alpha privative" that negates the sense of the root adjective), and therefore has only only two sets of forms for common gender (masculine or feminine) and neuter. **ἐστεφάνωται** irregular perfect stem from στεφανόω.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`5` οὐ μὲν πᾶσα διαπρὸ **περίδρομος**, ἀλλὰ διαμφὶς
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**περίδρομος** Another compound adjective.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`6` ὀξυτέρη **βεβαυῖα** πρὸς **ἠελίοιο** κελεύθους,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**βεβαυῖα** epic perfect participle from βαίνω. **ἠελίοιο** epic stem for ἥλιος; epic -οιο is a regular genitive singular ending for second declension masculines.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`7` σφενδόνῃ **εἰοικυῖα**· μίαν δέ **ἑ** καίπερ ἐοῦσαν
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**εἰοικυῖα** here in the literal sense "to resemble, seem like, the verb ἔοικα is only used in the perfect tense. **ἑ** epic form of the third person pronoun, common gender, accusative singular.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`8` ἄνθρωποι **τρισσῇσιν** ἐπ’ **ἠπείροισι** δάσαντο·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**τρισσῇσιν, **ἠπείροισι**** epic endings for dative plural. ἤπειρος is the technical term for "continent" in geographic writing. The physical division of the earth in three continents is always an essential initial question in geographic texts.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`9` πρώτην μέν Λιβύην, μετὰ δʼ Εὐρώπην Ἀσίην τε.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`10` Ἀλλʼ ἤτοι Λιβύη μὲν ἀπʼ Εὐρώπης ἔχει **οὖρον**
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**οὖρον** epic and Ionic form from ὅρος. Establishing the boundaries between continents is a required topic to address in identifying them.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`11` λοξὸν ἐπὶ **γραμμῆσι**, Γάδειρά τε καὶ στόμα Νείλου,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**γραμμῆσι** Dionysius envisions their spatial relations as if drawn on a map.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`12` ἔνθα **βορειότατος** πέλεται μυχὸς Ἄιγύπτοιο
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**βορειότατος** Here and following, the superlative forms bring us to the very limits of the world, its ὅροι.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`13` καὶ τέμενος περίπυστον Ἀμυκλαίοιο Κανώβου
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`14` Εὐρώπην δʼ Ἀσίης Τάναϊς διὰ μέσσον **ὁρίζει**,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**ὁρίζει** Technical language for a geographic boundary.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`15` ὅς ῥά θʼ ἑλισσόμενος γαίης διὰ Σαυροματάων
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`16` σύρεται ἐς Σκυθίην τε καὶ ἐς Μαιώτιδα λίμνην,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`17` πρὸς βορέην· νότιον δὲ μεσούριον Ἑλλήσποντος·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`18` σῆμα δ ὑπερτέταται νοτιώτερον ἐς στόμα Νείλου·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`19` **Ἄλλοι** δʼ ἠπείροισι διὰ χθόνα **νοσφίζουσιν**.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**Ἄλλοι…νοσφίζουσιν** νοσφίζουσιν is a poetic metaphor, but the topic remains how to distinguish the continents. Ἄλλοι shows us that this was a disputed subject, with geographers holding multiple views.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`20` Ἰσθμὸς ἄνω τέταταί τις ὑπέρτατος Ἀσίδος αἴης,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`21` Κασπίης τε μεσηγὺ καὶ Εὐξείνοιο θαλάσσης·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`22` **κεῖνον** δ Εὐρώπης Ἀσίης θ ὅρον **ηὐδάξαντο**·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**κεῖνον** epic form, from ἐκεῖνος. **ηὐδάξαντο**  αὐδάζομαι is normally used in the middle voice, "to name (something)".
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`23` ἄλλος δʼ αὖ μακρὸς καὶ ἀθέσφατος ἐς νότον ἕρπει,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`24` Ἀραβίου κόλποιο καὶ Αἰγύπτοιο μεσηγὺ,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`25` ὅς ῥά τε νοσφίζει Λιβύην Ἀσιήτιδος αἴης.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`26` **Τοῖα** μὲν ἀμφʼ οὔροισι βροτοὶ **διεφημίξαντο**·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**Τοῖα…διεφημίξαντο** "These are the kinds of things people say about borders." Dionysius rounds off the opening discussion of the continents, in order to move on to the next topic (the Ocean, Ὠκεανός). βροτοὶ is a purely poetic word for "mortals."
+:::
+
+
+::::
+
+
+## Lines 56-68
+
+
+> *As he changes topic, Dionysius pauses to address the Muses directly.*
+>
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`56` Τόσσοι μὲν κόλποι βαθυκύμονος Ὠκεανοῖο
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**Τόσσοι** Here Dionysius wraps up a preceding discussion with 
+τόσος, "this many," rather than τοῖος, "this sort". We are leaving the discussion of the major gulfs of Ὠκεανός, and move on to "the western sea."
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`57` οἱ μείζους· ἄλλοι δέ τ ἀπειρέσιοι γεγάασιν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`58` νῦν δʼ ἁλὸς ἑσπερίης **ἐρέω** πόρον, ἥτʼ ἐπὶ πάσας
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**ἐρέω** In *Iliad* 2.493, Homer uses the same verb to introduce the Catalog of Ships.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`59` ἠπείρους **λοξοῖσιν** ἐπιστρέφεται πελάγεσσιν,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**λοξοῖσιν** Describing the seas as "oblique" is again a cartographic image.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`60` ἄλλοτε μὲν νήσοισι περίδρομος, ἄλλοτε δʼ οὖτε
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`61` ἢ ὀρέων ἢ πέζαν ὑποξύουσα πολήων.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`62` Ὑμεῖς δ , Μοῦσαι, σκολιὰς ἐνέποιτε κελεύθους,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`63` ἀρξάμεναι **στοιχηδὸν** ἀφʼ ἑσπέρου Ὠκεανοῖο·
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="25%" .sidenote}
+**στοιχηδὸν** The Muses will proceed in sequential order, just as a line of hexameter verse (a στίχος) is ordered.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`64` ἔνθα τε καὶ στῆλαι περὶ τέρμασιν Ἡρακλῆος
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`65` ἑστᾶσιν, μέγα θαῦμα, παρʼ ἐσχατόωντα Γάδειρα,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`66` μακρὸν ὑπὸ πρηῶνα πολυσπερέων Ἀτλάντων,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`67` ἦχί τε καὶ χάλκειος ἐς οὐρανὸν ἔδραμε κίων,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`68` ἠλίβατος, πυκινοῖσι καλυπτόμενος νεφέεσσιν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+
+
+## Lines 109-137
+
+
+> *In his description of the Cretan Sea, Dionysius embeds his name in an acrostich.*
+>
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`109` ἐκ δὲ ῥόων Σικελῶν Κρήτης ἀναπέπταται οἶδμα
+:::
+
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`110` μακρὸν ἐπ’ ἀντολίην Σαλμωνίδος ἄχρι καρήνου,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`111` ἣν Κρήτης ἐνέπουσιν ἑώϊον ἔμμεναι ἄκρην.
+:::
+
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`112` **Δ**οιαὶ δʼ ἑξείης προτέρω φρίσσουσι θάλασσαι,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+**Δ** With line 112, the now famous acrostich (only recognized by modern scholars in 1884) begins, and runs through line 134. Lines 112-121 spell out the author's name in the genitive: ΔΙΟΝΥΣΙΟΥ. This is his poem. 
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`113` **Ἰ**σμαρικοῦ πνοιῇσιν ἐλαυνόμεναι βορέαο,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`114` **ὀ**ρθὸν φυσιόωντος, ἐπεὶ κατεναντία κεῖνται·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`115` **ν**αῦται δὲ πρώτην Φαρίην ἅλα κικλήσκουσιν,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`116` **ὕ**στατον ἐς πρηῶνα τιταινομένην Κασίοιο·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`117` **Σ**ιδονίην δʼ ἑτέρην, ὅθι τείνεται ἐς μυχὰ γαίῃς
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`118` [ **Ἰ**σσοῦ ἄχρι πτόλιος, Κιλίκων χώρην παραμείβων, ]
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+Scholars consider this line a later interpolation. The reference to "passing by Cilica" gets ahead of the topic which begins in 121, and including this line with disrupt the acrostich.
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`119` **Ἰ**σσικὸς ἑλκόμενος βορέην ἔπι κόλπος ἀπείρων,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`120` **ο**ὐ μὲν πολλὸν ἄνευθεν ἰσόδρομος· ἄγχι γὰρ ἤδη
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`121` **ὕ**σπληγγι δνοφερῇ Κιλίκων ἀποπαύεται αἴης·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`122` **τ**ῆμος ἐπὶ ζέφυρον στρεπτὴν ἐπερεύγεται ἅλμην.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`123` **Ὡ**ς δὲ δράκων βλοσυρωπὸς ἑλίσσεται, ἀγκύλος ἕρπων,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`124` **ν**ωθὴς τῷ δ ὕποπᾶσα βαρύνεταιοὔρεος ἄκρη
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`125` **ἐ**ρχομένῳ· τὼς κεῖνος ἐλίσσεται εἰν ἁλὶ κόλπος,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`126` **ν**ήχυτος, ἔνθα καὶ ἔνθα βαρυνόμενος προχοῇσιν.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`127` **Τ**οῦ μὲν ἐπὶ προχοῇ Παμφύλιοι ἀμφινέμονται,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`128` **ὅ**σσον ἐπιπροβέβηκε Χελιδονίων μυχὰ νήσων·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`129` **σ**ῆμα δʼ ἔχει ζεφύρου Παταρηίδα τηλόθεν ἄκρην.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`130` **Φ**ράζεο δʼ, ἐκ κείνου τετραμμένος αὖθις ἐπʼ ἄρκτους
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`131` **Α**ἰγαίου πόντοιο πλατὺν πόρον, ἔνθα τε κῦμα
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`132` **ῥ**ησσόμενον νήσοισι περιβρέμεται Σποράδεσσιν·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`133` **ο**ὐ γάρ τις κείνῳ ἐναλίγκια κύματʼ ὀφέλλει,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`134` **ὑ**ψόθι μορμύρων, ἕτερος πόρος ἀμφιτρίτης·
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+
+
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`135` οὖρον δʼ ἐς Τένεδον τεκμαίρεται ἐσχατόωσαν,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`136` Ἴμβρον ἔχων ἑτέρωθεν,ὅθεν στενὸς ἔρχεται αὐλών,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`137` συρόμενος βορέηνδε Προποντίδος ἔνδοθι πάσης.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%" .sidenote}
+:::
+
+::::
+
+
+
+
+
+## Lines 1184-1188
+
+
+> *Dionysius speaks directly to the physical features he has described to bid them farewell.*
+>
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1184` Ὑμεῖς δʼ ἤπειροί τε καὶ εἰν ἁλὶ χαίρετε, νῆσοι,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1185` ὕδατά τʼ Ὠκεανοῖο καὶ ἱερὰ χεύματα πόντου
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1186` καὶ ποταμοὶ κρῆναί τε καὶ οὔρεα βησσήεντα.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1187` Ἤδη γὰρ πάσης μὲν ἐπέδραμον οἶδμα θαλάσσης,
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1188` ἤδη δʼ ἠπείρων σκολιὸν πόρον· ἀλλά μοι ὕμνων
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+`1189` αὐτῶν ἐκ μακάρων ἀντάξιος εἴη ἀμοιβή.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="20%" .sidenote}
+:::
+
+::::
