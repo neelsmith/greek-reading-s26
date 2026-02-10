@@ -40,7 +40,7 @@ Numerous Greek manuscripts demonstrates the continued interest in the poem. In a
 
 
 
-[![*Dionysius' map of the world as imagined by the nineteenth century scholar, Edward Bunbury*](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
+[![*Dionysius' map of the world as imagined by the nineteenth century scholar, Edward Bunbury*](./imgs/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
 
 
 

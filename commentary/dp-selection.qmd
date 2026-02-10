@@ -15,7 +15,7 @@
 
 
 ::: {.column width="25%"}
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
+[![](./imgs/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bunbury_Vol_2_Map_07_Dionysius_Periegetes_p_490.jpg)
 :::
 
 
