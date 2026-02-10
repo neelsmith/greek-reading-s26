@@ -6,7 +6,7 @@ pdf-engine: xelatex
 book:
   title: "Greek Reading: Society in Nature"
   author: "Neel Smith"
-  date: "1/28/2026"
+  date: "2/9/2026"
 
   chapters:
     - index.qmd
