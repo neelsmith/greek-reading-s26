@@ -8,11 +8,20 @@ This site hosts some reading selections and notes for a Greek and Latin reading 
 
 ## Version history
 
+
+### 2026-02-09
+
+#### Additions
+
+- introduction to Dionysius "the Perigete"
+- second reading selection: 4 passages from Dionysius, *Περιήγησις τῆς οἰκουµένης*
+- a complete Greek text of the *Περιήγησις τῆς οἰκουµένης*
+
 ### 2026-01-28 
 
 Initial version. 
 
-#### Adds
+#### Additions
 
 - introduction to Strabo
 - first reading selection: selections from Strabo, *Geography* 1.1
