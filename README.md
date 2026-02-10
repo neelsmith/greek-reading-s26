@@ -14,6 +14,7 @@ This site hosts some reading selections and notes for a Greek and Latin reading 
 #### Additions
 
 - expanded commentary on selections from Dionysius.
+- added note on title
 
 #### Changes
 
