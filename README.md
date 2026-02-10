@@ -8,6 +8,12 @@ This site hosts some reading selections and notes for a Greek and Latin reading 
 
 ## Version history
 
+### 2026-02-10
+
+#### Changes
+
+- typos
+
 
 ### 2026-02-09
 
