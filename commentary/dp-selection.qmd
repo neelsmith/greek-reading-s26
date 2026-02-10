@@ -471,13 +471,14 @@
 :::: {.columns}
 
 ::: {.column width="60%"}
-`59` ἠπείρους λοξοῖσιν ἐπιστρέφεται πελάγεσσιν,
+`59` ἠπείρους **λοξοῖσιν** ἐπιστρέφεται πελάγεσσιν,
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+**λοξοῖσιν** Describing the seas as "oblique" is again a cartographic image.
 :::
 
 ::::
@@ -531,12 +532,11 @@
 :::
 
 ::: {.column width="10%"}
-**στοιχηδὸν**
 
-Cf στίχος as term for a line of hexameter.
 :::
 
 ::: {.column width="25%" .sidenote}
+**στοιχηδὸν** The Muses will proceed in sequential order, just as a line of hexameter verse (a στίχος) is ordered.
 :::
 
 ::::
@@ -611,607 +611,6 @@ Cf στίχος as term for a line of hexameter.
 
 ::::
 
-:::: {.columns}
-
-::: {.column width="60%"}
-`69` Πόντος μὲν πρώτιστος Ἰβηρικὸς ἀρχομένοισιν
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`70` ἐγκέχυται, ὅσπερ τε καὶ Εὐρώπης πέλει ἀρχὴ
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`71` καὶ Λιβύης· μέσσος γὰρ ἐλίσσεται ἀμφοτεράων.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`72` Στῆλαι δʼ ἔνθα καὶ ἔνθα παρὰ πλευρῇσι κέονται,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`73` ἡ μὲν ἐπʼ Εὐρώπην, ἡ δʼ ἐς Λιβύην δρόωσα.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`74` Τὸν δέ μετεκδέχεται Γαλάτης ῥόος, ἔνθα τε γαῖα
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`75` Μασσαλίη τετάνυσται, ἐπίστροφον ὅρμον ἔχουσα.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`76` Ἑξείης δʼ ἐπὶ τοῖσι Λιγυστιὰς ἕλκεται ἄλμη,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`77` ἐνθʼ Ἰταλῶν υἱῆες ἐπʼ ἠπείροιο νέμονται,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`78` ἐκ Διὸς Αὐσονιῆες, ἀεὶ μέγα κοιρανέοντες,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`79` ἀρξάμενοι βορέηθεν ἔσω Λευκὴν ἐπὶ πέτρην,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`80` ἥ ῥά τε καὶ Σικελῆς ἐπὶ πορθμίδος ἐρρίζωται·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`81` ἑξείης δʼ ἐπὶ Κύρνον ἐρεύγεται ἁλμυρὸν ὕδωρ.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`82` Τῇ δʼ ἔπι Σαρδόνιος μορμύρεται ἔνδοθι πόντος·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`83` τὸν δὲ μέτʼ ὠρύεται Τυρσηνίδος οἶδμα θαλάσσης
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`84` πρὸς νότον· αὐτὰρ ἔπειτα πρὸς αὐγὰς ἠελίοιο
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`85` κυρτὸς ἐπιστρέφεται Σικελὸς ῥόος· αὐτὰρ ἔνερθεν
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`86` ἐγκέχυται καὶ μέχρι πολυκλύστοιο Παχύνου
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`87` καὶ Κρήσσης ἄκρης (ἥτʼ εἰς ἅλα πουλὺ νένευκε,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`88` πάρ θʼ ἱερὴν Γόρτυνα καὶ ἠπειρώτιδα Φαιστόν,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`89` προπρηνὴς, Κριοῖο παραυγάζουσα κάρηνον·.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`90` τοὔνεκα καὶ Κριοῦ μιν ἐφημίξαντο μέτωπον)·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`91` ναὶ μὴν καὶ τετάνυσιαι Ἰηπυγίην ἐπὶ γαῖαν.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`92` Κεῖθεν δʼ εὐρυνθεῖσα τιταίνεται Ἀδριὰς ἅλμη
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`93` πρὸς βορέην, αὖθις δὲ πρὸς ἐσπέριον μυχὸν ἕρπει,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`94` ἥντε καὶ Ἰονίην περιναιέται ηὐδάξαντο.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`95` Δισσὰς δʼ ἠπείρους ἐπερεύγεται· ἐς μέν ἰόντι
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`96` δεξιτερὴν κατὰ χεῖρα φαείνεται Ἰλλυρὶς αἶα,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`97` Δαλματίη δʼ ἐφύπερθεν, ἐνυαλίων πέδον ἀνδρῶν·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`98` σκαιῆ δʼ Αὐσονίων παραπέπταται ἄσπετος ἰσθμός,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`99` πουλυτενὴς, τρισσῇσι περίδρομος ἀμφιτρίτῃς,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`100` Τυρσηνῇ Σικελῇ τε καὶ Ἀδριάδι πληθούσῃ·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`101` ἡ μία δʼ εἰς ἄνεμον τεκμαίρεται ὁλκὸν ἑκάστη,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`102` Τυρσηνὴ ζέφυρον, Σικελὴ νότον, Ἀδριὰς εὖρον.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`103` Αὐτὰρ ὑπὲρ Σικελῆς χθονὸς ἕλκεται οἶδμα κορύσσων
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`104` Λιβύης,νοτίην περὶ Σύρτιν ἑλίσσων
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`105` τὴν ἑτέρην, ἥνπερ τε καὶ εὐρυτέρην ἐνέπουσιν·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`106` ἄλλη δ, τις ἀφαυρὸν ἔχει πόρον, ἔνδον ἐοῦσα,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`107` τηλόθεν ἐρχομένην δέχεται πλημμύριδα πόντου.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`108` Ὣς οἱ μὲν βοόωσιν ἑλισσόμενοι δύο κόλποι·
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`109` ἐκ δὲ ῥόων Σικελῶν Κρήτης ἀναπέπταται οἶδμα
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`110` μακρὸν ἐπ’ ἀντολίην Σαλμωνίδος ἄχρι καρήνου,
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="60%"}
-`111` ἣν Κρήτης ἐνέπουσιν ἑώϊον ἔμμεναι ἄκρην.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="25%" .sidenote}
-:::
-
-::::
 
 
 ## Lines 109-137
@@ -1272,6 +671,7 @@ Cf στίχος as term for a line of hexameter.
 :::
 
 ::: {.column width="25%" .sidenote}
+**Δ** With line 112, the now famous acrostich (only recognized by modern scholars in 1884) begins, and runs through line 134. Lines 112-121 spell out the author's name in the genitive: ΔΙΟΝΥΣΙΟΥ. This is his poem. 
 :::
 
 ::::
@@ -1349,13 +749,14 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`118` **Ἰ**σσοῦ ἄχρι πτόλιος, Κιλίκων χώρην παραμείβων,
+`118` [ **Ἰ**σσοῦ ἄχρι πτόλιος, Κιλίκων χώρην παραμείβων, ]
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="25%" .sidenote}
+Scholars consider this line a later interpolation. The reference to "passing by Cilica" gets ahead of the topic which begins in 121, and including this line with disrupt the acrostich.
 :::
 
 ::::
@@ -1405,7 +806,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`122` τῆμος ἐπὶ ζέφυρον στρεπτὴν ἐπερεύγεται ἅλμην.
+`122` **τ**ῆμος ἐπὶ ζέφυρον στρεπτὴν ἐπερεύγεται ἅλμην.
 :::
 
 ::: {.column width="10%"}
@@ -1419,7 +820,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`123` Ὡς δὲ δράκων βλοσυρωπὸς ἑλίσσεται, ἀγκύλος ἕρπων,
+`123` **Ὡ**ς δὲ δράκων βλοσυρωπὸς ἑλίσσεται, ἀγκύλος ἕρπων,
 :::
 
 ::: {.column width="10%"}
@@ -1433,7 +834,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`124` νωθὴς τῷ δ ὕποπᾶσα βαρύνεταιοὔρεος ἄκρη
+`124` **ν**ωθὴς τῷ δ ὕποπᾶσα βαρύνεταιοὔρεος ἄκρη
 :::
 
 ::: {.column width="10%"}
@@ -1447,7 +848,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`125` ἐρχομένῳ· τὼς κεῖνος ἐλίσσεται εἰν ἁλὶ κόλπος,
+`125` **ἐ**ρχομένῳ· τὼς κεῖνος ἐλίσσεται εἰν ἁλὶ κόλπος,
 :::
 
 ::: {.column width="10%"}
@@ -1461,7 +862,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`126` νήχυτος, ἔνθα καὶ ἔνθα βαρυνόμενος προχοῇσιν.
+`126` **ν**ήχυτος, ἔνθα καὶ ἔνθα βαρυνόμενος προχοῇσιν.
 :::
 
 ::: {.column width="10%"}
@@ -1475,7 +876,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`127` Τοῦ μὲν ἐπὶ προχοῇ Παμφύλιοι ἀμφινέμονται,
+`127` **Τ**οῦ μὲν ἐπὶ προχοῇ Παμφύλιοι ἀμφινέμονται,
 :::
 
 ::: {.column width="10%"}
@@ -1489,7 +890,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`128` ὅσσον ἐπιπροβέβηκε Χελιδονίων μυχὰ νήσων·
+`128` **ὅ**σσον ἐπιπροβέβηκε Χελιδονίων μυχὰ νήσων·
 :::
 
 ::: {.column width="10%"}
@@ -1503,7 +904,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`129` σῆμα δʼ ἔχει ζεφύρου Παταρηίδα τηλόθεν ἄκρην.
+`129` **σ**ῆμα δʼ ἔχει ζεφύρου Παταρηίδα τηλόθεν ἄκρην.
 :::
 
 ::: {.column width="10%"}
@@ -1517,7 +918,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`130` Φράζεο δʼ, ἐκ κείνου τετραμμένος αὖθις ἐπʼ ἄρκτους
+`130` **Φ**ράζεο δʼ, ἐκ κείνου τετραμμένος αὖθις ἐπʼ ἄρκτους
 :::
 
 ::: {.column width="10%"}
@@ -1531,7 +932,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`131` Αἰγαίου πόντοιο πλατὺν πόρον, ἔνθα τε κῦμα
+`131` **Α**ἰγαίου πόντοιο πλατὺν πόρον, ἔνθα τε κῦμα
 :::
 
 ::: {.column width="10%"}
@@ -1545,7 +946,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`132` ῥησσόμενον νήσοισι περιβρέμεται Σποράδεσσιν·
+`132` **ῥ**ησσόμενον νήσοισι περιβρέμεται Σποράδεσσιν·
 :::
 
 ::: {.column width="10%"}
@@ -1559,7 +960,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`133` οὐ γάρ τις κείνῳ ἐναλίγκια κύματʼ ὀφέλλει,
+`133` **ο**ὐ γάρ τις κείνῳ ἐναλίγκια κύματʼ ὀφέλλει,
 :::
 
 ::: {.column width="10%"}
@@ -1573,7 +974,7 @@ Cf στίχος as term for a line of hexameter.
 :::: {.columns}
 
 ::: {.column width="60%"}
-`134` ὑψόθι μορμύρων, ἕτερος πόρος ἀμφιτρίτης·
+`134` **ὑ**ψόθι μορμύρων, ἕτερος πόρος ἀμφιτρίτης·
 :::
 
 ::: {.column width="10%"}
