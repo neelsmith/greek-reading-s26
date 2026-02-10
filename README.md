@@ -10,9 +10,14 @@ This site hosts some reading selections and notes for a Greek and Latin reading 
 
 ### 2026-02-10
 
+
+#### Additions
+
+- expanded commentary on selections from Dionysius.
+
 #### Changes
 
-- typos
+- cleaned up some typos
 
 
 ### 2026-02-09
