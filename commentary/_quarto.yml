@@ -15,8 +15,7 @@ book:
     - dp-intro.qmd
     - dp-selection.qmd
     - dp-all-text.qmd
-    - aratus-intro.qmd
-    - aratus-selections.qmd
+
 
 format:
   html:
